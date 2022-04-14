@@ -1,5 +1,5 @@
 def fibonacci():
-    how_many = int(input("Ile chcesz wygenerwoać liczb z ciągu fibonacciego?"))
+    how_many = int(input("Ile chcesz wygenerować liczb z ciągu Fibonacciego?"))
     count = 0
     fib1 = 0
     fib2 = 1
